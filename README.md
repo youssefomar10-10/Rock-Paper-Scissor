@@ -28,7 +28,7 @@ The program:
 4. Declares the winner of the round
 5. Repeats until the player chooses to exit
 
-## 🚀 How to Run
+## How to Run
 
 ### Using g++
 ```bash
